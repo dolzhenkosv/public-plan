@@ -1,5 +1,5 @@
-
-# Me and my plans
+Me and my plans
+---
 
 *So, the main point is to understand the mission while going through it.*
 
