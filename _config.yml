@@ -4,6 +4,6 @@ title: "My Mission and Plans"            # Page title
 description: "Outline of my vision to establish a Commercial Laboratory, Clinic, and Medical University."  # Page description
 theme: minima                             # Chosen theme for a minimalistic design
 baseurl: ""                               # Base URL (if applicable)
-url: "https://yourusername.github.io"     # Your GitHub Pages URL
-markdown: kramdown                        # Markdown processor
+url: "https://dolzhenkosv.github.io"     # Your GitHub Pages URL
+# markdown: kramdown                        # Markdown processor
 permalink: /:title/                       # Permalink structure
