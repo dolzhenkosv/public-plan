@@ -1,2 +1,41 @@
-theme: minima
-title: Stepan Dolzhenko
+# _config.yml
+# I am setting up my GitHub Pages configuration for my mission project.
+# This file is organized into sections for site settings and my detailed mission plan.
+
+title: "My Mission and Plans"  # The title of the site
+description: "A detailed outline of my vision to create a Commercial Laboratory, a Clinic, and a Medical University."  # A brief description of the project
+theme: minima  # Chosen theme for a professional, minimalistic look
+
+# Author information (update with your actual email if needed)
+author:
+  name: "Stepan Dolzhenko"
+  email: "12mrch2023@gmail.com"  # Replace with your contact email
+
+# Basic site settings
+baseurl: ""  # The subpath of your site (e.g., /blog)
+url: "https://dolzhenkosv.github.io"  # The base URL for your site
+
+# Markdown configuration
+markdown: kramdown
+permalink: /:title/
+
+# My mission plan configuration section
+plans:
+  laboratory:
+    title: "Commercial Laboratory"
+    description: "Gain MD and PhD for clinical and research experience to establish a high-quality commercial lab."
+    skills:
+      - "Clinical Experience"
+      - "Research Skills"
+      - "Networking"
+      - "Communication"
+  clinic:
+    title: "Clinic"
+    description: "Develop fundraising and business skills from scaling up the laboratory's business model."
+  university:
+    title: "Medical University"
+    description: "Plan and understand the requirements to establish a Medical University."
+
+# Custom variables for future customization
+custom:
+  version: "1.0"
