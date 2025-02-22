@@ -1,5 +1,5 @@
 ---
-layout: default
+#layout: default
 title: "My Mission and Plans 222"
 ---
 
