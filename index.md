@@ -1,25 +1,29 @@
-Me and my plans
+---
+layout: default
+title: "My Mission and Plans"
 ---
 
-*So, the main point is to understand the mission while going through it.*
+# Me and my plans
 
-**The plan for now:**
+So, the main point is to understand the mission while going through it.
 
-- [ ] Create a Commercial Laboratory  
-- [ ] Create a Clinic  
-- [ ] Create a Medical University  
+## The plan for now
 
-## Part one, *the* laboratory:
+- [ ] Create a Commercial Laboratory
+- [ ] Create a Clinic
+- [ ] Create a Medical University
 
-- [ ] MD degree as the basic part of my career needed ***because I love it***, to gain experience in clinic, understand internal structure, networking.
+### Part One: The Laboratory
+
+- [ ] MD degree as the basic part of my career needed because I love it, to gain experience in clinic, understand internal structure, networking.
 - [ ] PhD combined with medical experience to gain profound research skills and understand the structure of working laboratory.
 - [ ] Estimate my level and gain extra communication skills in Medical-Research field to rule the lab.
 - [ ] Commercial skills? And from which projects they can be gained. Should it be the first checkbox to tick?
 
-## Part two, the clinic
+### Part Two: The Clinic
 
-- [ ] Fundraising and skills in business from scailing up business model of laboratory?
+- [ ] Fundraising and skills in business from scaling up the laboratory's business model.
 
-## Part three, the Medical University
+### Part Three: The Medical University
 
 - [ ] To understand where to start!
