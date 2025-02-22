@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My Mission and Plans"
+title: "My Mission and Plans 222"
 ---
 
 # Me and my plans
