@@ -1,8 +1,3 @@
----
-#layout: default
-title: "My Mission and Plans 222"
----
-
 # Me and my plans
 
 So, the main point is to understand the mission while going through it.
